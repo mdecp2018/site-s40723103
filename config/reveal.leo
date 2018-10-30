@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -124,15 +124,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 你今天開心嗎?
 
-### 虎科大機械設計工程系
+### 虎科大機械設計工程系關心您
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [Yan ying](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[我的分組網誌](./../blog/index.html)
 
 
 </t>
@@ -153,6 +153,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 按 o 鍵可以切換單張或全域檢視 (overview)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+*帶著快樂的心開始痛苦下去喔
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -171,7 +172,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
+<t tx="leo.20180827201621.15"># 數學符號與方程式(優秀的數學)
 
 Inline math equations go in like so: $\omega = d\phi / dt$. Display
 math should get its own line and be put in in double-dollarsigns:
@@ -189,7 +190,7 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
+<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片然後我看不懂
 以下利用 Markdown 格式展示 Python 程式碼:
 ```
 @language python
@@ -226,7 +227,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
+<t tx="leo.20180827201621.19">## 使用 iframe 導入影片這我還沒教到
 
 ### 導入影片 template
 
