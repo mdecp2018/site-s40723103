@@ -1,7 +1,6 @@
 # 我的倉儲
-2018 Fall 計算機程式與電腦輔助設計實習課程分組倉儲-40723103
-
-http://mdecourse.github.io/2018fall/
+我的遠端網址40723103
+https://mdecp2018.github.io/site-s40723103/
 
 分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
 
